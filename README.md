@@ -18,7 +18,7 @@ Genus · Innovus · Modus · Joules · Xcelium · Conformal
 - RISC-V Fault Detection — DFT instrumentation and ATPG/timing/area/power evaluation on an RV32IM core
 - Microfabrication & Sensor Research — cleanroom fabrication (lithography, implantation, etch, deposition) and a research paper on a variable D-Q delay flip-flop for delay-fault detection
 
-More detail on each of these: **[portfolio site](https://AKLN0401.github.io/)**
+More detail on each of these: **[portfolio site](https://akln0401.github.io/portfolio/)**
 
 **Contact**
-[Email](mailto:anhkhoi_2005@icloud.com) · [LinkedIn](#) · [CV](#)
+[Email](mailto:anhkhoi_2005@icloud.com) · [LinkedIn](#) · [CV](https://akln0401.github.io/portfolio/assets/khoi-nguyen-cv.pdf)
