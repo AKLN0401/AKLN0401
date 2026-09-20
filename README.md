@@ -21,4 +21,4 @@ Genus · Innovus · Modus · Joules · Xcelium · Conformal
 More detail on each of these: **[portfolio site](https://akln0401.github.io/portfolio/)**
 
 **Contact**
-[Email](mailto:anhkhoi_2005@icloud.com) · [LinkedIn](#) · [CV](https://akln0401.github.io/portfolio/assets/khoi-nguyen-cv.pdf)
+[Email](mailto:anhkhoi_2005@icloud.com) · [LinkedIn](https://www.linkedin.com/in/anhkhoilenguyen/) · [CV](https://akln0401.github.io/portfolio/assets/khoi-nguyen-cv.pdf)
