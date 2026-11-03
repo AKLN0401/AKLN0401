@@ -14,7 +14,7 @@ Genus · Innovus · Modus · Joules · Xcelium · Conformal · Calibre · IC Val
 
 **Selected work**
 - [NVIDIA NVDLA 12 nm](https://akln0401.github.io/portfolio/projects/nvdla.html) — open-source deep-learning accelerator at 1.1 GHz in a 12 nm FinFET flow: multi-Vt, clock gating, full scan, foundry DRC/LVS signoff
-- [GAA_SysArray](https://github.com/AKLN0401/GAA_SysArray) — RISC-V (Ibex) + 8×8 INT8 systolic array taken from RTL to GDS on a CFET PDK with backside power delivery
+- [GAA_SysArray_CFET](https://github.com/AKLN0401/GAA_SysArray_CFET) — RISC-V (Ibex) + 8×8 INT8 systolic array taken from RTL to GDS on a CFET PDK with backside power delivery
 - [npu-2x2-int4-16bit](https://github.com/AKLN0401/npu-2x2-int4-16bit) — int4 MAC-array NPU with per-row clock gating and full scan for Tiny Tapeout (SKY130), DRC/LVS clean
 - [Error-Detection DFT Architectures](https://akln0401.github.io/portfolio/projects/dft.html) — variable D-Q delay flip-flop architectures for delay-fault and timing-error detection in 12 nm FinFET
 - [Printed Flexible MEMS Switch](https://akln0401.github.io/portfolio/projects/mems-switch.html) — Lorentz-force MEMS switch with electrostatic hold-down (EUROSENSORS 2026)
